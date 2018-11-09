@@ -1,3 +1,8 @@
 # Reporting Engine
 
-Created with Spring Boot
+Created with:
+	Netbeans
+	Maven
+	Spring Boot
+	
+To start the application, just run ReportingEngineApp.java
